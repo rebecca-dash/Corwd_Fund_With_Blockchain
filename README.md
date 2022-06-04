@@ -10,16 +10,23 @@ In this project I was able to build a program with Solidity which utilized smart
 `Ganache`
 ---
 
-# How to use the Project
+# How to use the 
+
 Learn about the REMIX project using Solidity here:[Solidity Install](https://remix-project.org/)
 
 **For REMIX**
+
 [REMIX_Development_Website](https://remix.ethereum.org/) 
 
 **For Metamask**
-Metamask is a blockchain wallet that a user can deposit or withdraw funds from.
-Learn how to download Metamask as an extension for your browser: [Metamask]()
 
+Metamask is a blockchain wallet that a user can deposit or withdraw funds from.
+
+Learn how to download Metamask as an extension for your browser: [Metamask](https://metamask.io/download/)
+
+**Ganache**
+
+How to install Ganache:  [Ganache](https://trufflesuite.com/docs/ganache/quickstart/)
 
 ---
 # license
