@@ -10,7 +10,7 @@ In this project I was able to build a program with Solidity which utilized smart
 `Ganache`
 ---
 
-# How to use the 
+# How to use the project
 
 Learn about the REMIX project using Solidity here:[Solidity Install](https://remix-project.org/)
 
